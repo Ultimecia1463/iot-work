@@ -12,10 +12,10 @@
 const char* ssid = "ultimecia";
 const char* password = "ultimecia";
 
-#define API_KEY "AIzaSyBmpU5gUjG5zPy7-oQd-VGKcfnAXtAp6hM"
-#define USER_EMAIL "keshu1234harshu@gmail.com"
-#define USER_PASSWORD "ultimecia69"
-#define STORAGE_BUCKET_ID "project1-cc25e.appspot.com"
+#define API_KEY ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
+#define STORAGE_BUCKET_ID ""
 
 #define BUCKET_PHOTO "/photos/"
 
