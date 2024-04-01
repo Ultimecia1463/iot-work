@@ -19,10 +19,10 @@
 //For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 
 /* 2. Define the API Key */
-#define API_KEY "7JJDyrORPcgfmqBZTOQFwBqfHIVP1gSuzYAQ3fkl"
+#define API_KEY ""
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://project1-cc25e-default-rtdb.europe-west1.firebasedatabase.app/" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 
 //Define Firebase Data object
