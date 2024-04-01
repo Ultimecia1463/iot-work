@@ -14,14 +14,14 @@
 const char* ssid = "ansh";
 const char* password = "ultimecia";
 
-#define API_KEY "AIzaSyBmpU5gUjG5zPy7-oQd-VGKcfnAXtAp6hM"
+#define API_KEY ""
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "keshu1234harshu@gmail.com"
-#define USER_PASSWORD "ultimecia69"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Insert Firebase storage bucket ID e.g bucket-name.appspot.com
-#define STORAGE_BUCKET_ID "project1-cc25e.appspot.com"
+#define STORAGE_BUCKET_ID ""
 
 #define FILE_PHOTO_PATH "/photo.jpg"
 #define BUCKET_PHOTO "/data/photo.jpg"
