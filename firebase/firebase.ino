@@ -15,14 +15,14 @@
 // For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBmpU5gUjG5zPy7-oQd-VGKcfnAXtAp6hM"
+#define API_KEY ""
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://project1-cc25e-default-rtdb.europe-west1.firebasedatabase.app/" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that already registered or added in your project */
-#define USER_EMAIL "keshu1234harshu@gmail.com"
-#define USER_PASSWORD "ultimecia69"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Define Firebase Data object
 FirebaseData fbdo;
