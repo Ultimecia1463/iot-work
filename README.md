@@ -1,4 +1,4 @@
-# Helmet Detection System (unfinihed)
+# Helmet Detection System (unfinished)
 
 This project utilizes an Arduino microcontroller and an ultrasonic sensor to create a helmet detection system. The system measures the distance using the ultrasonic sensor and detects the presence of helmets based on the measured distance.
 
